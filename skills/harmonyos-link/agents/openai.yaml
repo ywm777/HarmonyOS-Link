@@ -1,0 +1,7 @@
+interface:
+  display_name: HarmonyOS Link
+  short_description: Full HarmonyOS build-emulator-screenshot feedback loop.
+  brand_color: "#2B7A68"
+  default_prompt: Use HarmonyOS Link to compile, install, launch, screenshot, and visually inspect this HarmonyOS app.
+policy:
+  allow_implicit_invocation: true
